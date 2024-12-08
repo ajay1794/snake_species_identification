@@ -1,4 +1,4 @@
- t e n s o r f l o w = = 2 . 1 5 . 0 
-s t r e a m l i t = = 1 . 4 0 . 2 
-p i l l o w = = 1 0 . 0 . 0 
-n u m p y = = 1 . 2 5 . 1 
+streamlit==1.25.0
+numpy==1.24.3
+pillow==9.5.0
+tensorflow==2.10.0
