@@ -38,7 +38,7 @@ if submit:
         image = Image.open(plant_image)
 
         # Displaying the image
-        st.image(image, caption='Uploaded Image', use_container_width=True)
+        st.image(image, caption='Uploaded Image', use_column_width=True)
 
         # Resizing the image
         image = image.resize((299, 299))
